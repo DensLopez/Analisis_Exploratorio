@@ -35,8 +35,8 @@ Tu carrera en data science requiere de capacidad para entender los datos, cómo 
 - Herramientas de software para el análisis exploratorio de datos - [code005.ipynb](codes/code005.ipynb), [code005.pdf](codes/pdfs/code005.pdf).
 - Conociendo nuestros datos: Palmerpenguins - [code006.ipynb](codes/code006.ipynb), [code006.pdf](codes/pdfs/code006.pdf).
 - Recolección de datos, limpieza y validación - [code007.ipynb](codes/code007.ipynb), [code007.pdf](codes/pdfs/code007.pdf).
-- Ejercicio de validación de datos - [code008.ipynb](codes/code008.ipynb), [code008.pdf](codes/pdfs/code008.pdf).
-- Quiz 1: Introducción al análisis exploratorio de datos - [Extra01.ipynb](codes/Extra01.ipynb), [Extra01.pdf](codes/pdfs/Extra01.pdf).
+- Ejercicio de validación de datos [Python] - [code008.ipynb](codes/code008.ipynb), [code008.pdf](codes/pdfs/code008.pdf).
+- Quiz 1: Introducción al análisis exploratorio de datos -  [Quiz01.pdf](codes/pdfs/quiz01.pdf).
 
 ### Análisis univariado
 
