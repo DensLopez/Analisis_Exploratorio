@@ -47,7 +47,7 @@ Tu carrera en data science requiere de capacidad para entender los datos, cómo 
 - Estadística descriptiva aplicada: distribuciones - [code012.ipynb](codes/code012.ipynb), [code012.pdf](codes/pdfs/code012.pdf).
 - Estadística descriptiva aplicada: funciones de densidad de probabilidad - [code013.ipynb](codes/code013.ipynb), [code013.pdf](codes/pdfs/code013.pdf).
 - Bonus: Teorema del límite central - [code014.ipynb](codes/code014.ipynb), [code014.pdf](codes/pdfs/code014.pdf).
-- Quiz 2: Análisis univariado - [Extra02.ipynb](codes/Extra02.ipynb), [Extra02.pdf](codes/pdfs/Extra02.pdf).
+- Quiz 2: Análisis univariado - [Quiz02.pdf](codes/pdfs/quiz02.pdf).
 
 ### Análisis bivariado
 
