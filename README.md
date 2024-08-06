@@ -57,7 +57,7 @@ Tu carrera en data science requiere de capacidad para entender los datos, cómo 
 - Limitantes de los coeficientes de correlación lineal - [code018.ipynb](codes/code018.ipynb), [code018.pdf](codes/pdfs/code018.pdf).
 - Estableciendo relaciones: análisis de regresión simple - [code019.ipynb](codes/code019.ipynb), [code019.pdf](codes/pdfs/code019.pdf).
 - Limitaciones del análisis de regresión simple - [code020.ipynb](codes/code020.ipynb), [code020.pdf](codes/pdfs/code020.pdf).
-- Quiz 3: Análisis Bivariado - [Extra03.ipynb](codes/Extra03.ipynb), [Extra03.pdf](codes/pdfs/Extra03.pdf).
+- Quiz 3: Análisis Bivariado - [Quiz03.pdf](codes/pdfs/quiz03.pdf).
 
 ### Análisis multivariado
 
@@ -66,7 +66,7 @@ Tu carrera en data science requiere de capacidad para entender los datos, cómo 
 - Análisis de regresión logística - [code023.ipynb](codes/code023.ipynb), [code023.pdf](codes/pdfs/code023.pdf).
 - Paradoja de Simpson - [code024.ipynb](codes/code024.ipynb), [code024.pdf](codes/pdfs/code024.pdf)
 - ¿Qué hacer cuando tengo muchas variables? - [code025.ipynb](codes/code025.ipynb), [code025.pdf](codes/pdfs/code025.pdf).
-- Quiz 4: Análisis Multivariado - [Extra04.ipynb](codes/Extra04.ipynb), [Extra04.pdf](codes/pdfs/Extra04.pdf).
+- Quiz 4: Análisis Multivariado - [Quiz04.pdf](codes/pdfs/quiz04.pdf).
 
 ### Conclusiones
 
